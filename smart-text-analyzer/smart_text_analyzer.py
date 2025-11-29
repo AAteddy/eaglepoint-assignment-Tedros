@@ -1,6 +1,6 @@
 import re
 from collections import Counter
-from typing import List, Dict
+from typing import Dict
 
 def smart_text_analyzer(text: str) -> Dict:
     """
